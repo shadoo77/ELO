@@ -1,0 +1,107 @@
+- 1.3*/Opdracht 1 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 10 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 10 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 10 : TypeError: Cannot read property 'split' of undefined
+- 2.2*/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.2*/Opdracht 3 : TypeError: str.match is not a function
+- 2.2* : ValidationError: slides: Cast to Array failed for value "[ { __t: 'MemoryA',
+    _id: 5ddfb473a0136c45bdcfff57,
+    name: 'PJMth2_02*_e003_q001',
+    icon: 'memory',
+    order: 1,
+    __v: 0 },
+  undefined,
+  5ddfb47aa0136c45bdd00198,
+  5ddfb47aa0136c45bdd001a2,
+  undefined ]" at path "slides"
+- 2.4*/Opdracht 3 : TypeError: str.match is not a function
+- 2.4**/Opdracht 4 : TypeError: Cannot read property 'toString' of undefined
+- 2.5*/Opdracht 8 : ValidationError: icon: Path `icon` is required.
+- 2.5*/Opdracht 8 : ValidationError: icon: Path `icon` is required.
+- 2.5*/Opdracht 8 : ValidationError: icon: Path `icon` is required.
+- 2.5*/Opdracht 8 : ValidationError: icon: Path `icon` is required.
+- 2.5*/Opdracht 8 : ValidationError: icon: Path `icon` is required.
+- 2.5*/Opdracht 9 : ValidationError: icon: Path `icon` is required.
+- 2.5*/Opdracht 9 : ValidationError: icon: Path `icon` is required.
+- 2.5*/Opdracht 9 : ValidationError: icon: Path `icon` is required.
+- 2.5**/Opdracht 4 : TypeError: Cannot read property 'toString' of undefined
+- 2.5**/Opdracht 8 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.7**/Opdracht 7 : TypeError: Cannot read property 'toString' of undefined
+- 2.7**/Opdracht 8 : TypeError: str.match is not a function
+- 2.7**/Opdracht 8 : TypeError: str.match is not a function
+- 1.3*/Opdracht 1 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 10 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 10 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 10 : TypeError: Cannot read property 'split' of undefined
+- 2.2*/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.2*/Opdracht 3 : TypeError: str.match is not a function
+- 2.4*/Opdracht 3 : TypeError: str.match is not a function
+- 2.5**/Opdracht 4 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.7**/Opdracht 7 : TypeError: Cannot read property 'toString' of undefined
+- 2.7**/Opdracht 8 : TypeError: str.match is not a function
+- 2.7**/Opdracht 8 : TypeError: str.match is not a function
+- 1.3*/Opdracht 1 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 4 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 10 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 10 : TypeError: Cannot read property 'split' of undefined
+- 1.3*/Opdracht 10 : TypeError: Cannot read property 'split' of undefined
+- 2.2*/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.2*/Opdracht 3 : TypeError: str.match is not a function
+- 2.4*/Opdracht 3 : TypeError: str.match is not a function
+- 2.5**/Opdracht 4 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 1 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 3 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.5***/Opdracht 6 : TypeError: Cannot read property 'toString' of undefined
+- 2.7**/Opdracht 7 : TypeError: Cannot read property 'toString' of undefined
+- 2.7**/Opdracht 8 : TypeError: str.match is not a function
+- 2.7**/Opdracht 8 : TypeError: str.match is not a function
